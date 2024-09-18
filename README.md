@@ -1,7 +1,7 @@
 # A simulator for pokemon using only Gen 3 Ubers tier pokemon
 ### No pokemon below or above Ubers Tier allowed for now
 
-#### Pokemon Allowed include:
+# Pokemon Allowed include:
    #### Deoxys (All forms)
    #### Groudon
    #### Ho-Oh
@@ -15,6 +15,6 @@
    #### Wobbuffet
    #### Wynaut
 
-#### Items are allowed
+# Items are allowed
 
-#### Singles battle format only
+# Singles battle format only
