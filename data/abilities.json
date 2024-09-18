@@ -1,0 +1,63 @@
+{
+      "pressure": {
+        "desc": "If this Pokemon is the target of an opposing Pokemon's move, that move loses one additional PP.",
+        "shortDesc": "If this Pokemon is the target of a foe's move, that move loses one additional PP.",
+        "id": "pressure",
+        "name": "Pressure",
+        "rating": 2,
+        "num": 46
+    },
+  
+       "drought": {
+        "shortDesc": "On switch-in, this Pokemon summons Sunny Day.",
+        "id": "drought",
+        "name": "Drought",
+        "rating": 4.5,
+        "num": 70
+    },   
+
+       "drizzle": {
+        "shortDesc": "On switch-in, this Pokemon summons Rain Dance.",
+        "id": "drizzle",
+        "name": "Drizzle",
+        "rating": 4.5,
+        "num": 2
+    },
+
+      "levitate": {
+        "desc": "This Pokemon is immune to Ground. Gravity, Ingrain, Smack Down, Thousand Arrows, and Iron Ball nullify the immunity.",
+        "shortDesc": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it.",
+        "id": "levitate",
+        "name": "Levitate",
+        "rating": 3.5,
+        "num": 26
+    },
+
+      "synchronize": {
+        "desc": "If another Pokemon burns, paralyzes, poisons, or badly poisons this Pokemon, that Pokemon receives the same major status condition.",
+        "shortDesc": "If another Pokemon burns/poisons/paralyzes this Pokemon, it also gets that status.",
+        "id": "synchronize",
+        "name": "Synchronize",
+        "rating": 2,
+        "num": 28
+    },
+
+      "shadowtag": {
+        "desc": "Prevents adjacent opposing Pokemon from choosing to switch out unless they are immune to trapping or also have this Ability.",
+        "shortDesc": "Prevents adjacent foes from choosing to switch unless they also have this Ability.",
+        "id": "shadowtag",
+        "name": "Shadow Tag",
+        "rating": 5,
+        "num": 23
+    },
+
+      "airlock": {
+        "shortDesc": "While this Pokemon is active, the effects of weather conditions are disabled.",
+        "suppressWeather": true,
+        "id": "airlock",
+        "name": "Air Lock",
+        "rating": 2.5,
+        "num": 76
+    },
+  
+}
