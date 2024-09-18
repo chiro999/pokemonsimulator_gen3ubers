@@ -15,12 +15,14 @@
    #### Wobbuffet
    #### Wynaut
 
-# Items are allowed
+### Items are allowed
 
-# Singles battle format only
+### Singles battle format only
 
-# No EVs or IVs
+### No EVs or IVs
 
-# No mega evolution or Z-moves
+### No mega evolution or Z-moves
 
-# No Terrastalize or Dynamax
+### No Terrastalize or Dynamax
+
+### Physical and Special Attack Split
