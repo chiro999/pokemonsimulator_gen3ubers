@@ -1,0 +1,344 @@
+{
+  "deoxys": {
+        "num": 386,
+        "species": "Deoxys",
+        "baseForme": "Normal",
+        "types": [
+            "Psychic"
+        ],
+        "gender": "N",
+        "baseStats": {
+            "hp": 50,
+            "atk": 150,
+            "def": 50,
+            "spa": 150,
+            "spd": 50,
+            "spe": 150
+        },
+        "abilities": {
+            "0": "Pressure"
+        },
+        "heightm": 1.7,
+        "weightkg": 60.8,
+        "color": "Red",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "otherFormes": [
+            "deoxysattack",
+            "deoxysdefense",
+            "deoxysspeed"
+        ],
+        "tier": "Uber"
+    },
+    "deoxysattack": {
+        "num": 386,
+        "species": "Deoxys-Attack",
+        "baseSpecies": "Deoxys",
+        "forme": "Attack",
+        "formeLetter": "A",
+        "types": [
+            "Psychic"
+        ],
+        "gender": "N",
+        "baseStats": {
+            "hp": 50,
+            "atk": 180,
+            "def": 20,
+            "spa": 180,
+            "spd": 20,
+            "spe": 150
+        },
+        "abilities": {
+            "0": "Pressure"
+        },
+        "heightm": 1.7,
+        "weightkg": 60.8,
+        "color": "Red",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "tier": "Uber"
+    },
+    "deoxysdefense": {
+        "num": 386,
+        "species": "Deoxys-Defense",
+        "baseSpecies": "Deoxys",
+        "forme": "Defense",
+        "formeLetter": "D",
+        "types": [
+            "Psychic"
+        ],
+        "gender": "N",
+        "baseStats": {
+            "hp": 50,
+            "atk": 70,
+            "def": 160,
+            "spa": 70,
+            "spd": 160,
+            "spe": 90
+        },
+        "abilities": {
+            "0": "Pressure"
+        },
+        "heightm": 1.7,
+        "weightkg": 60.8,
+        "color": "Red",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "tier": "Uber"
+    },
+    "deoxysspeed": {
+        "num": 386,
+        "species": "Deoxys-Speed",
+        "baseSpecies": "Deoxys",
+        "forme": "Speed",
+        "formeLetter": "S",
+        "types": [
+            "Psychic"
+        ],
+        "gender": "N",
+        "baseStats": {
+            "hp": 50,
+            "atk": 95,
+            "def": 90,
+            "spa": 95,
+            "spd": 90,
+            "spe": 180
+        },
+        "abilities": {
+            "0": "Pressure"
+        },
+        "heightm": 1.7,
+        "weightkg": 60.8,
+        "color": "Red",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "tier": "Uber"
+    },
+  
+  "groudon": {
+        "num": 383,
+        "species": "Groudon",
+        "types": [
+            "Ground"
+        ],
+        "gender": "N",
+        "baseStats": {
+            "hp": 100,
+            "atk": 150,
+            "def": 140,
+            "spa": 100,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {
+            "0": "Drought"
+        },
+        "heightm": 3.5,
+        "weightkg": 950,
+        "color": "Red",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "tier": "Uber"
+    },
+
+  "hooh": {
+        "num": 250,
+        "species": "Ho-Oh",
+        "types": [
+            "Fire",
+            "Flying"
+        ],
+        "gender": "N",
+        "baseStats": {
+            "hp": 106,
+            "atk": 130,
+            "def": 90,
+            "spa": 110,
+            "spd": 154,
+            "spe": 90
+        },
+        "abilities": {
+            "0": "Pressure",
+            "H": "Regenerator"
+        },
+        "heightm": 3.8,
+        "weightkg": 199,
+        "color": "Red",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "tier": "Uber"
+    },
+
+  "kyogre": {
+        "num": 382,
+        "species": "Kyogre",
+        "types": [
+            "Water"
+        ],
+        "gender": "N",
+        "baseStats": {
+            "hp": 100,
+            "atk": 100,
+            "def": 90,
+            "spa": 150,
+            "spd": 140,
+            "spe": 90
+        },
+        "abilities": {
+            "0": "Drizzle"
+        },
+        "heightm": 4.5,
+        "weightkg": 352,
+        "color": "Blue",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "tier": "Uber"
+    },
+
+  "latias": {
+        "num": 380,
+        "species": "Latias",
+        "types": [
+            "Dragon",
+            "Psychic"
+        ],
+        "gender": "F",
+        "baseStats": {
+            "hp": 80,
+            "atk": 80,
+            "def": 90,
+            "spa": 110,
+            "spd": 130,
+            "spe": 110
+        },
+        "abilities": {
+            "0": "Levitate"
+        },
+        "heightm": 1.4,
+        "weightkg": 40,
+        "color": "Red",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "tier": "Uber"
+    },
+
+     "latios": {
+        "num": 381,
+        "species": "Latios",
+        "types": [
+            "Dragon",
+            "Psychic"
+        ],
+        "gender": "M",
+        "baseStats": {
+            "hp": 80,
+            "atk": 90,
+            "def": 80,
+            "spa": 130,
+            "spd": 110,
+            "spe": 110
+        },
+        "abilities": {
+            "0": "Levitate"
+        },
+        "heightm": 2,
+        "weightkg": 60,
+        "color": "Blue",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "tier": "Uber"
+    },
+
+  "lugia": {
+        "num": 249,
+        "species": "Lugia",
+        "types": [
+            "Psychic",
+            "Flying"
+        ],
+        "gender": "N",
+        "baseStats": {
+            "hp": 106,
+            "atk": 90,
+            "def": 130,
+            "spa": 90,
+            "spd": 154,
+            "spe": 110
+        },
+        "abilities": {
+            "0": "Pressure",
+            "H": "Multiscale"
+        },
+        "heightm": 5.2,
+        "weightkg": 216,
+        "color": "White",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "tier": "Uber"
+    },
+  
+  "mew": {
+        "num": 151,
+        "species": "Mew",
+        "types": [
+            "Psychic"
+        ],
+        "gender": "N",
+        "baseStats": {
+            "hp": 100,
+            "atk": 100,
+            "def": 100,
+            "spa": 100,
+            "spd": 100,
+            "spe": 100
+        },
+        "abilities": {
+            "0": "Synchronize"
+        },
+        "heightm": 0.4,
+        "weightkg": 4,
+        "color": "Pink",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "tier": "Uber"
+    },
+
+      "mewtwo": {
+        "num": 150,
+        "species": "Mewtwo",
+        "types": [
+            "Psychic"
+        ],
+        "gender": "N",
+        "baseStats": {
+            "hp": 106,
+            "atk": 110,
+            "def": 90,
+            "spa": 154,
+            "spd": 90,
+            "spe": 130
+        },
+        "abilities": {
+            "0": "Pressure",
+            "H": "Unnerve"
+        },
+        "heightm": 2,
+        "weightkg": 122,
+        "color": "Purple",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "tier": "Uber"
+    },
+}
