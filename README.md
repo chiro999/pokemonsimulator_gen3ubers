@@ -18,3 +18,9 @@
 # Items are allowed
 
 # Singles battle format only
+
+# No EVs or IVs
+
+# No mega evolution or Z-moves
+
+# No Terrastalize or Dynamx
