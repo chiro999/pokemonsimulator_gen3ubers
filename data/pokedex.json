@@ -341,4 +341,92 @@
         ],
         "tier": "Uber"
     },
+
+      "rayquaza": {
+        "num": 384,
+        "species": "Rayquaza",
+        "types": [
+            "Dragon",
+            "Flying"
+        ],
+        "gender": "N",
+        "baseStats": {
+            "hp": 105,
+            "atk": 150,
+            "def": 90,
+            "spa": 150,
+            "spd": 90,
+            "spe": 95
+        },
+        "abilities": {
+            "0": "Air Lock"
+        },
+        "heightm": 7,
+        "weightkg": 206.5,
+        "color": "Green",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "tier": "Uber"
+    },
+
+  "wobbuffet": {
+        "num": 202,
+        "species": "Wobbuffet",
+        "types": [
+            "Psychic"
+        ],
+        "baseStats": {
+            "hp": 190,
+            "atk": 33,
+            "def": 58,
+            "spa": 33,
+            "spd": 58,
+            "spe": 33
+        },
+        "abilities": {
+            "0": "Shadow Tag",
+            "H": "Telepathy"
+        },
+        "heightm": 1.3,
+        "weightkg": 28.5,
+        "color": "Blue",
+        "prevo": "wynaut",
+        "evoLevel": 15,
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "tier": "Uber"
+    },
+  
+    "wynaut": {
+        "num": 360,
+        "species": "Wynaut",
+        "types": [
+            "Psychic"
+        ],
+        "baseStats": {
+            "hp": 95,
+            "atk": 23,
+            "def": 48,
+            "spa": 23,
+            "spd": 48,
+            "spe": 23
+        },
+        "abilities": {
+            "0": "Shadow Tag",
+            "H": "Telepathy"
+        },
+        "heightm": 0.6,
+        "weightkg": 14,
+        "color": "Blue",
+        "evos": [
+            "wobbuffet"
+        ],
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "tier": "Uber"
+    },
+  
 }
