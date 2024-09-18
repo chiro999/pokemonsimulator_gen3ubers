@@ -23,4 +23,4 @@
 
 # No mega evolution or Z-moves
 
-# No Terrastalize or Dynamx
+# No Terrastalize or Dynamax
