@@ -34,7 +34,7 @@ def attack_stat(pokemon:Pokemon, weather:str, crit:bool=False) -> float:
         modifier = 2
   return pokemon.stats.attack * modifier
 
-def get_defense(pokemon:Pokemon, crit:bool, terrain:str) -> float:
+def defense_stat(pokemon:Pokemon, crit:bool, terrain:str) -> float:
     '''
     Returns modified defense stat.
     '''
@@ -42,3 +42,15 @@ def get_defense(pokemon:Pokemon, crit:bool, terrain:str) -> float:
     if crit and modifier > 1:
         modifier = 1
     return pokemon.stats.defense * modifier
+
+
+def spattack_stat(pokemon:Pokemon, crit:bool, weather:str) -> float:
+    '''
+    Returns modified special attack stat.
+    '''
+    modifier = dex.boosts[pokemon.boosts['spa']]
+    if crit and modifier < 1:
+        modifier = 1
+    if pokemon.item == 'choicespecs':
+        modifier = 1.5
+    return pokemon.stats.specialattack * modifier
