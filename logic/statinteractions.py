@@ -17,7 +17,7 @@ raise_stat
 def attack_stat(pokemon:Pokemon, weather:str, crit:bool=False) -> float:
     '''
     Returns modified attack stat.
-    Requires info about weather.
+    Uses weather and abilities to derive final value.
     '''
     modifier = dex.boosts[pokemon.boosts['atk']]
     if crit and modifier < 1:
