@@ -32,3 +32,13 @@ def attack_stat(pokemon:Pokemon, weather:str, crit:bool=False) -> float:
         modifier = 2
     if pokemon.species in {'cubone', 'marowak'} and pokemon.item == 'thickclub':
         modifier = 2
+  return pokemon.stats.attack * modifier
+
+def get_defense(pokemon:Pokemon, crit:bool, terrain:str) -> float:
+    '''
+    Returns modified defense stat.
+    '''
+    modifier = dex.boosts[pokemon.boosts['def']]
+    if crit and modifier > 1:
+        modifier = 1
+    return pokemon.stats.defense * modifier
